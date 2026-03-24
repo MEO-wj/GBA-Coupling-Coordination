@@ -1,0 +1,11 @@
+﻿系统,一级维度,建议二级指标,内地9市官方来源,香港官方来源,澳门官方来源,口径/使用建议
+新质生产力,创新投入,R&D经费、R&D/GDP,各市统计年鉴（科技章）；广东21市年鉴总入口：https://gdzd.stats.gov.cn/dcsj/gdsnjsj/201902/t20190201_154503.html,https://www.censtatd.gov.hk/hkstat/sub/sp120.jsp?ID=0&productType=8&tableID=207,https://www.dsec.gov.mo/zh-MO/Home/Publication/YearbookOfStatistics,建议统一为“R&D强度”
+新质生产力,创新投入,R&D人员（全时当量）,各市统计年鉴（科技章）,https://www.censtatd.gov.hk/en/scode580.html,https://www.dsec.gov.mo/zh-MO/Home/Publication/YearbookOfStatistics,优先用全时当量或每万人R&D人员
+新质生产力,创新产出,专利授权量/专利拥有量,各市统计年鉴（科技/知识产权章）,https://www.ipd.gov.hk/en/tools-resources/ip-statistics/index.html,https://www.dsedt.gov.mo/pg_ip_sd?_refresh=true,跨境可统一用“每万人专利数”
+新质生产力,产业高端化,高技术制造业增加值/占比、先进制造业,各市统计年鉴（工业章）,https://www.censtatd.gov.hk/hkstat/sub/sp140.jsp?productCode=B1010003,https://www.dsec.gov.mo/zh-MO/Home/Publication/YearbookOfStatistics,港澳缺少完全同口径工业指标时，可改用知识密集服务业/ICT代理
+新质生产力,数字化与信息化,移动电话用户、信息通信业增加值/就业,11城统一表总入口：https://www.dsec.gov.mo/BayArea/zh-CN/,https://www.censtatd.gov.hk/hkstat/sub/sp140.jsp?productCode=B1010003,https://www.dsec.gov.mo/ts/,移动电话用户是最容易统一的11城指标之一
+新质生产力,人力资本,普通高校在校生、受高等教育人口比重,各市统计年鉴（教育章）,https://www.censtatd.gov.hk/hkstat/sub/sp140.jsp?productCode=B1010003,https://www.dsec.gov.mo/zh-MO/Home/Publication/YearbookOfStatistics,建议统一为“每万人高校学生数”或“高等教育人口占比”
+区域协调,经济协调,GDP、人口、人均GDP、就业,11城统一表（人口/GDP/就业）,同左：11城统一表+Annual Digest,同左：11城统一表+Yearbook,本文件已录入这三项完整面板
+区域协调,开放联通,货物进出口总值/出口/进口,11城统一表总入口：https://www.dsec.gov.mo/BayArea/zh-CN/,https://www.censtatd.gov.hk/hkstat/sub/sp140.jsp?productCode=B1010003,https://www.dsec.gov.mo/ts/,建议统一为“贸易依存度=进出口/GDP”
+区域协调,消费与市场,零售额,11城统一表总入口：https://www.dsec.gov.mo/BayArea/zh-CN/,https://www.censtatd.gov.hk/en/scode530.html,https://www.dsec.gov.mo/zh-MO/,适合市场活跃度代理
+区域协调,公共服务/社会协同,教育、卫生、社会保障资源,各市统计年鉴（教育/卫生/民政章）,https://www.censtatd.gov.hk/hkstat/sub/sp140.jsp?productCode=B1010003,https://www.dsec.gov.mo/zh-MO/Home/Publication/YearbookOfStatistics,建议挑选能在11城都找到的少数指标

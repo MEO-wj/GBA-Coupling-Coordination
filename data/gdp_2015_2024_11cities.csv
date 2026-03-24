@@ -1,0 +1,111 @@
+year,city,value,unit
+2015,Guangzhou,17602.12,100 million local currency
+2015,Shenzhen,18682.76,100 million local currency
+2015,Zhuhai,2251.31,100 million local currency
+2015,Foshan,8203.07,100 million local currency
+2015,Huizhou,3134.27,100 million local currency
+2015,Dongguan,6769.32,100 million local currency
+2015,Zhongshan,2745.9,100 million local currency
+2015,Jiangmen,2306.36,100 million local currency
+2015,Zhaoqing,1706.88,100 million local currency
+2015,Hong Kong,23982.8,100 million local currency
+2015,Macao,3588.49,100 million local currency
+2016,Guangzhou,18870.24,100 million local currency
+2016,Shenzhen,20996.68,100 million local currency
+2016,Zhuhai,2490.42,100 million local currency
+2016,Foshan,8871.82,100 million local currency
+2016,Huizhou,3414.4,100 million local currency
+2016,Dongguan,7380.62,100 million local currency
+2016,Zhongshan,2868.25,100 million local currency
+2016,Jiangmen,2517.85,100 million local currency
+2016,Zhaoqing,1827.6,100 million local currency
+2016,Hong Kong,24905.98,100 million local currency
+2016,Macao,3594.97,100 million local currency
+2017,Guangzhou,20151.23,100 million local currency
+2017,Shenzhen,23527.3,100 million local currency
+2017,Zhuhai,2978.73,100 million local currency
+2017,Foshan,9507.08,100 million local currency
+2017,Huizhou,3806.15,100 million local currency
+2017,Dongguan,8228.18,100 million local currency
+2017,Zhongshan,2978.39,100 million local currency
+2017,Jiangmen,2787.4,100 million local currency
+2017,Zhaoqing,1987.29,100 million local currency
+2017,Hong Kong,26596.11,100 million local currency
+2017,Macao,4036.84,100 million local currency
+2018,Guangzhou,21423.77,100 million local currency
+2018,Shenzhen,25634.42,100 million local currency
+2018,Zhuhai,3262.38,100 million local currency
+2018,Foshan,10150.88,100 million local currency
+2018,Huizhou,4077.44,100 million local currency
+2018,Dongguan,9021.55,100 million local currency
+2018,Zhongshan,3113.03,100 million local currency
+2018,Jiangmen,3066.61,100 million local currency
+2018,Zhaoqing,2133.63,100 million local currency
+2018,Hong Kong,28354.29,100 million local currency
+2018,Macao,4446.04,100 million local currency
+2019,Guangzhou,24381.78,100 million local currency
+2019,Shenzhen,27432.99,100 million local currency
+2019,Zhuhai,3536.42,100 million local currency
+2019,Foshan,10975.06,100 million local currency
+2019,Huizhou,4313.4,100 million local currency
+2019,Dongguan,9736.84,100 million local currency
+2019,Zhongshan,3202.81,100 million local currency
+2019,Jiangmen,3230.79,100 million local currency
+2019,Zhaoqing,2295.19,100 million local currency
+2019,Hong Kong,28450.22,100 million local currency
+2019,Macao,4440.79,100 million local currency
+2020,Guangzhou,25604.26,100 million local currency
+2020,Shenzhen,28310.71,100 million local currency
+2020,Zhuhai,3586.22,100 million local currency
+2020,Foshan,10873.04,100 million local currency
+2020,Huizhou,4467.86,100 million local currency
+2020,Dongguan,10079.94,100 million local currency
+2020,Zhongshan,3311.24,100 million local currency
+2020,Jiangmen,3285.18,100 million local currency
+2020,Zhaoqing,2388.73,100 million local currency
+2020,Hong Kong,26757.93,100 million local currency
+2020,Macao,2019.64,100 million local currency
+2021,Guangzhou,28848.96,100 million local currency
+2021,Shenzhen,31473.84,100 million local currency
+2021,Zhuhai,3997.86,100 million local currency
+2021,Foshan,12349.22,100 million local currency
+2021,Huizhou,5259.64,100 million local currency
+2021,Dongguan,11272.57,100 million local currency
+2021,Zhongshan,3705.22,100 million local currency
+2021,Jiangmen,3695.31,100 million local currency
+2021,Zhaoqing,2719.29,100 million local currency
+2021,Hong Kong,28679.73,100 million local currency
+2021,Macao,2452.41,100 million local currency
+2022,Guangzhou,29471.41,100 million local currency
+2022,Shenzhen,33196.52,100 million local currency
+2022,Zhuhai,4189.55,100 million local currency
+2022,Foshan,12823.31,100 million local currency
+2022,Huizhou,5669.7,100 million local currency
+2022,Dongguan,11742.94,100 million local currency
+2022,Zhongshan,3794.55,100 million local currency
+2022,Jiangmen,3860.65,100 million local currency
+2022,Zhaoqing,2810.71,100 million local currency
+2022,Hong Kong,28089.22,100 million local currency
+2022,Macao,2010.6,100 million local currency
+2023,Guangzhou,30723.56,100 million local currency
+2023,Shenzhen,34903.27,100 million local currency
+2023,Zhuhai,4348.96,100 million local currency
+2023,Foshan,13323.77,100 million local currency
+2023,Huizhou,5944.71,100 million local currency
+2023,Dongguan,11869.83,100 million local currency
+2023,Zhongshan,4020.39,100 million local currency
+2023,Jiangmen,4106.58,100 million local currency
+2023,Zhaoqing,2877.89,100 million local currency
+2023,Hong Kong,29812.1,100 million local currency
+2023,Macao,3679.04,100 million local currency
+2024,Guangzhou,30903.42,100 million local currency
+2024,Shenzhen,36943.75,100 million local currency
+2024,Zhuhai,4501.31,100 million local currency
+2024,Foshan,13230.18,100 million local currency
+2024,Huizhou,6183.02,100 million local currency
+2024,Dongguan,12348.61,100 million local currency
+2024,Zhongshan,4134.43,100 million local currency
+2024,Jiangmen,4202.68,100 million local currency
+2024,Zhaoqing,2917.85,100 million local currency
+2024,Hong Kong,31868.41,100 million local currency
+2024,Macao,3975.6,100 million local currency

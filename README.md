@@ -197,7 +197,7 @@ flowchart TD
 | --- | --- |
 | 当前阶段 | 模型设计与研究文档整理 |
 | 研究主线 | 新质生产力测度 + 区域发展测度 + 耦合协调分析 |
-| 当前产物 | 最终模型设计文档、README |
+| 当前产物 | 最终模型设计文档、项目 README、`data/` 数据说明与拆分表 |
 | 代码状态 | 尚未开始系统化落地 |
 | 下一步重点 | 数据口径表、指标清单、测度与空间计量代码 |
 
@@ -206,12 +206,22 @@ flowchart TD
 
 ```text
 GBA-Coupling-Coordination/
+├─ data/
+│  ├─ README.md
+│  ├─ population_2015_2024_11cities.csv
+│  ├─ gdp_2015_2024_11cities.csv
+│  ├─ employment_2015_2024_11cities.csv
+│  ├─ city_official_links.csv
+│  ├─ indicator_source_map.csv
+│  ├─ literature_2023_2025.csv
+│  ├─ official_background.csv
+│  └─ README.md
 ├─ docs/
 │  └─ 最终完整模型设计.docx
 └─ README.md
 ```
 
-当前仓库结构非常简洁，说明项目目前的重点还在于把研究逻辑、模型设计和文档体系先定下来。
+当前仓库仍然以文档和数据整理为主，但 `data/` 目录已经具备了基础面板数据、来源映射和数据说明，可以直接支撑后续的指标补采与初步建模。
 
 <a id="docs-categories"></a>
 ## 文档分类建议
